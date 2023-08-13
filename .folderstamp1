@@ -1,0 +1,82 @@
+This folder: /media/daniella/B/git/danimesq/danimesq/DAOs/Plasmmer
+
+  File: ./.folderstamp
+  Size: 67        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4186853     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 15:29:13.805398200 -0300
+Modify: 2023-08-13 15:29:13.801506900 -0300
+Change: 2023-08-13 15:29:13.801506900 -0300
+ Birth: -
+IPFS hash: QmXZi3DrpB9AyYSVUMg3B2RR8erpUA61PMQvRDudG57jek
+------------------------------
+  File: ./Allocation.txt
+  Size: 1939      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 3095053     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-24 21:11:52.714931500 -0300
+Modify: 2023-06-24 21:10:09.444539800 -0300
+Change: 2023-06-24 21:10:10.139895100 -0300
+ Birth: -
+IPFS hash: QmfNU7MYB5Tdx9k58BaJZsLXbz2LKSGEGZsxwtsEuDhfLT
+------------------------------
+  File: ./Tasks/Argent token icon-info.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 4143859     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-26 17:57:45.868218800 -0300
+Modify: 2023-01-26 17:57:45.868218800 -0300
+Change: 2023-03-25 11:13:39.922917300 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Tasks/Trust token icon-info.txt
+  Size: 54        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4143860     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 16:49:39.370714100 -0300
+Modify: 2023-03-25 11:13:20.878668100 -0300
+Change: 2023-03-25 11:13:39.926926500 -0300
+ Birth: -
+IPFS hash: QmckfqoFGK5JPw8N1HAbpFPdn8KrEoF4dW44VkbBsvab2B
+------------------------------
+  File: ./Tasks.txt
+  Size: 183       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4168102     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-06 01:05:02.953289500 -0300
+Modify: 2023-08-06 01:04:27.987557000 -0300
+Change: 2023-08-06 01:04:28.021427800 -0300
+ Birth: -
+IPFS hash: QmcDirUM2ztZW8TcS7QPhMB5MYoiziKkhToTCXiXKQtfgC
+------------------------------
+  File: ./Tokens.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1910126     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:53:45.157648700 -0300
+Modify: 2023-02-26 20:53:45.157648700 -0300
+Change: 2023-02-26 20:53:59.365453800 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./URL-ID.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1547457     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:39:31.183017900 -0300
+Modify: 2023-02-26 20:39:31.183017900 -0300
+Change: 2023-02-26 20:40:52.538693300 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Vault-Agent.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1852143     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:49:43.173487800 -0300
+Modify: 2023-02-26 20:49:43.173487800 -0300
+Change: 2023-02-26 20:49:55.593289700 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
